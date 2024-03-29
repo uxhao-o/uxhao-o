@@ -2,15 +2,15 @@
 
 <br />
 
-I'm Hao Xu. I'm a student of M.S. in Computer Science who does artificial intelligence (AI) research.
+**I'm Hao Xu. I'm a student of M.S. in Computer Science who does artificial intelligence (AI) research.**
 
 # <img width="30px" src="./people.png" /> About me
 
-## - 🎓 I'm working on my M.S. in Computer Science degree at Guizhou University, China.
+- 🎓 I'm working on my M.S. in Computer Science degree at Guizhou University, China.
 
-## - 🔍 I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.
+- 🔍 I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.
 
-## - 📝 I'm currently involved in a project on intelligent diagnosis of endemic fluorosis.
+- 📝 I'm currently involved in a project on intelligent diagnosis of endemic fluorosis.
 
 - 💬 Ask me about anything [here](https://github.com/uxhao-o/uxhao-o/issues)
 
