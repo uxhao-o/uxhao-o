@@ -31,8 +31,8 @@
 
 <div align="center">
     <div>
-    <a href="https://uxhao-o.github.io/"><img src="https://img.shields.io/badge/HomePage-主页-cd981d" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=uxhao-o&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <a href="https://uxhao-o.github.io/"><img src="https://img.shields.io/badge/HomePage" /></a>&emsp;
+    <!-- visitor statistics logo -->
+    <img src="https://komarev.com/ghpvc/?username=uxhao-o&label=Views&color=0e75b6&style=flat" alt="views" />
     </div>
 </div>
