@@ -31,7 +31,7 @@
 
 <div align="center">
     <div>
-    <a href="https://uxhao-o.github.io/"><img src="https://img.shields.io/badge/HomePage-主页-cd981d" /></a>&emsp;
+    <a href="https://uxhao-o.github.io/"><img src="https://img.shields.io/badge/HomePage-cd981d" /></a>&emsp;
     <!-- visitor statistics logo -->
     <img src="https://komarev.com/ghpvc/?username=uxhao-o&label=Views&color=0e75b6&style=flat" alt="views" />
     </div>
