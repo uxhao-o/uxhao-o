@@ -6,13 +6,13 @@
 
 # <img width="30px" src="./people.png" /> About me
 
-- 🎓 I'm working on my M.S. in Computer Science degree at Guizhou University, China.
+- 🎓 **I'm working on my M.S. in Computer Science degree at Guizhou University, China.**
 
-- 🔍 I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.
+- 🔍 **I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.**
 
-- 📝 I'm currently involved in a project on intelligent diagnosis of endemic fluorosis.
+- 📝 **I'm currently involved in a project on intelligent diagnosis of endemic fluorosis.**
 
-- 💬 Ask me about anything [here](https://github.com/uxhao-o/uxhao-o/issues)
+- 💬 **Ask me about anything [here](https://github.com/uxhao-o/uxhao-o/issues)**
 
 | <a href="https://github.com/uxhao-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uxhao-o&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hao Xu's github stats" /></a> | <a href="https://github.com/uxhao-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxhao-o&layout=compact&theme=buefy&hide_border=true" /></a> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
