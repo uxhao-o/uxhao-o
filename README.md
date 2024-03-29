@@ -8,7 +8,7 @@ I'm Hao Xu. I'm a student of M.S. in Computer Science who does artificial intell
 
 - 🎓 I'm working on my M.S. in Computer Science degree at Guizhou University, China.
 
-- 🔍 I'm working on research including deep learning, computer vision, and medical image processing.
+- 🔍 I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.
 
 - 📝 I'm currently involved in a project on intelligent diagnosis of endemic fluorosis.
 
