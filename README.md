@@ -4,7 +4,9 @@
 
 I'm Hao Xu. I'm a student of M.S. in Computer Science who does artificial intelligence (AI) research.
 
-<img width="30px" src="./people.png" /> **About me**
+<div style="align-items: center">
+  <img width="30px" src="./people.png" /> **About me**
+</div>
 
 - 🎓 I'm working on my M.S. in Computer Science degree at Guizhou University, China.
 
