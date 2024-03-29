@@ -32,8 +32,7 @@ I'm Hao Xu. I'm a student of M.S. in Computer Science who does artificial intell
 <div align="center">
     <div>
     <a href="https://uxhao-o.github.io/"><img src="https://img.shields.io/badge/HomePage-主页-cd981d" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_46124302/"><img src="https://img.shields.io/badge/Blog-CSDN-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=ZYangChen&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=uxhao-o&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     </div>
 </div>
