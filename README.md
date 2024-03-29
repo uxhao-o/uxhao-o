@@ -6,7 +6,7 @@
 
 # <img width="30px" src="./people.png" /> About me
 
-- 🎓 **I'm working on my M.S. in Computer Science degree at Guizhou University, China.**
+- 🎓 **I'm working on the M.S. in Computer Science degree at Guizhou University, China.**
 
 - 🔍 **I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.**
 
