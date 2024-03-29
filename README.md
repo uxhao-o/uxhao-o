@@ -1,4 +1,4 @@
-<p align="center"><a href="https://uxhao-o.github.io"><img width="80%" alt="Hello, I'm Hao Xu. I do AI research!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://uxhao-o.github.io"><img width="80%" alt="Hello, I'm Hao Xu. I do AI research!" src="./gh-readme-header.png" /></a></p>
 
 <br />
 
