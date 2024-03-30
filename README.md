@@ -14,7 +14,7 @@
 
 - 💬 **Ask me about anything [here](https://github.com/uxhao-o/uxhao-o/issues)**
 
-| <a href="https://github.com/uxhao-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uxhao-o&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hao Xu's github stats" /></a> | <a href="https://github.com/uxhao-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxhao-o&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/uxhao-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uxhao-o&repo=github-readme-stats&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hao Xu's github stats" /></a> | <a href="https://github.com/uxhao-o/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxhao-o&repo=github-readme-stats&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
