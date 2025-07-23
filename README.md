@@ -2,7 +2,7 @@
 
 <br />
 
-**I'm Hao Xu. I'm a student of M.S. in Computer Science doing research in Artificial Intelligence (AI).**
+**I'm Hao Xu. I'm a student of PhD in Biomedical Engineering doing research in Neuroimaging.**
 
 # <img width="30px" src="./people.png" /> About me
 
