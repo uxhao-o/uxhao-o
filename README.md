@@ -6,11 +6,11 @@
 
 # <img width="30px" src="./people.png" /> About me
 
-- 🎓 **I'm pursuing on the M.S. degree in Computer Science degree from Guizhou University, China.**
+- 🎓 **I'm pursuing on the PhD degree in Biomedical Engineering from University of Electronic Science and Technology of China (UESTC), China.**
 
-- 🔍 **I'm working on research including Deep Learning, Computer Vision, and Medical Image Processing.**
+- 🔍 **I'm working on research including Deep Learning, Medical Image Processing, Schizophrenia, Neuroimaging, Brain imaging.**
 
-- 📝 **I'm currently involved in a project on intelligent diagnosis of endemic fluorosis.**
+- 📝 **Ohters**
 
 - 💬 **Ask me about anything [here](https://github.com/uxhao-o/uxhao-o/issues)**
 
